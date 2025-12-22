@@ -33,35 +33,18 @@ project-root/
 ├── requirements.txt # Python dependencies
 └── README.md # This file
 
-------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🚀 Quick Start
 
-Option 1: View Live (Recommended)
+### Option 1: View Live (Recommended)
 Click the link above to view the running dashboard on AWS EC2.
 
+### Option 2: Run Locally
 
-
-
-_______________________________________________________________________________________________________________________________________________________________
-Option 2: Run Locally
-1- Clone the repository:
-
-
-git clone https://github.com/baraa1muslah-jpg/IBB-IoT-Project.git
-cd IBB-IoT-Project
------------------------------------------------------
-2- Install dependencies:
-
-
-pip install -r requirements.txt
-------------------------------------------------------
-3-Run the dashboard:
-
-
-streamlit run dashboards/app.py
-
-------------------------------------------------------------------------------------------------------------------------------------------------
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/baraa1muslah-jpg/IBB-IoT-Project.git](https://github.com/baraa1muslah-jpg/IBB-IoT-Project.git)
+   cd IBB-IoT-Project
 
 ## 🛠️ Technical Implementation
 
@@ -77,11 +60,12 @@ streamlit run dashboards/app.py
 ● Deployment: AWS EC2 (Free Tier), Ubuntu 24.04
 ● Version Control: GitHub
 
--------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ## 👥 Team Contributions
 
 **Team Member	Contribution**
 Al-Baraa Al-Qaisi :	Cloud Deployment (AWS), GitHub Management, Dashboard Integration & Model Development.
 Farag Gaffar :	Data Cleaning , EDA & Pre-processing.
+
 
