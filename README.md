@@ -36,12 +36,14 @@ project-root/
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🚀 Quick Start
+
 Option 1: View Live (Recommended)
 Click the link above to view the running dashboard on AWS EC2.
 
 
 
 
+_______________________________________________________________________________________________________________________________________________________________
 Option 2: Run Locally
 1- Clone the repository:
 
@@ -82,3 +84,4 @@ streamlit run dashboards/app.py
 **Team Member	Contribution**
 Al-Baraa Al-Qaisi :	Cloud Deployment (AWS), GitHub Management, Dashboard Integration & Model Development.
 Farag Gaffar :	Data Cleaning , EDA & Pre-processing.
+
