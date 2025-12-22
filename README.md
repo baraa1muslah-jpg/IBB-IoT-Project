@@ -42,9 +42,13 @@ Click the link above to view the running dashboard on AWS EC2.
 ### Option 2: Run Locally
 
 1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/baraa1muslah-jpg/IBB-IoT-Project.git](https://github.com/baraa1muslah-jpg/IBB-IoT-Project.git)
-   cd IBB-IoT-Project
+git clone https://github.com/baraa1muslah-jpg/IBB-IoT-Project.git cd IBB-IoT-Project
+
+2. **Install dependencies:**
+pip install -r requirements.txt
+
+3. **Run the dashboard:**
+streamlit run dashboards/app.py
 
 ## 🛠️ Technical Implementation
 
@@ -67,5 +71,6 @@ Click the link above to view the running dashboard on AWS EC2.
 **Team Member	Contribution**
 Al-Baraa Al-Qaisi :	Cloud Deployment (AWS), GitHub Management, Dashboard Integration & Model Development.
 Farag Gaffar :	Data Cleaning , EDA & Pre-processing.
+
 
 
