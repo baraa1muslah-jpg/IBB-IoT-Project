@@ -29,6 +29,7 @@ project-root/
 │ └── processed/ # Cleaned dataset
 ├── docs/
 │ ├── images/             # Screenshots for project
+│ ├── Presentation..pptx   # Project presentation
 │ └── report.md # Final project report
 ├── requirements.txt # Python dependencies
 └── README.md # This file
@@ -71,6 +72,7 @@ streamlit run dashboards/app.py
 **Team Member	Contribution**
 Al-Baraa Al-Qaisi :	Cloud Deployment (AWS), GitHub Management, Dashboard Integration & Model Development.
 Farag Gaffar :	Data Cleaning , EDA & Pre-processing.
+
 
 
 
